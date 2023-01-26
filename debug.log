@@ -1,0 +1,178 @@
+INFO 2023-01-20 20:45:40,671 Watching for file changes with StatReloader
+INFO 2023-01-20 20:47:39,570 Watching for file changes with StatReloader
+INFO 2023-01-20 20:48:42,261 Watching for file changes with StatReloader
+WARNING 2023-01-20 20:49:38,059 "GET /static/images/follow.jpg HTTP/1.1" 404 1810
+WARNING 2023-01-20 20:49:38,079 Not Found: /images/images/dash.jpg
+WARNING 2023-01-20 20:49:38,120 "GET /images/images/dash.jpg HTTP/1.1" 404 6235
+WARNING 2023-01-20 20:49:39,660 Not Found: /images/images/Seo_thumbnail4.jpg
+WARNING 2023-01-20 20:49:39,746 "GET /images/images/Seo_thumbnail4.jpg HTTP/1.1" 404 6265
+WARNING 2023-01-20 20:49:40,301 Not Found: /images/images/wordpress_or_django.jpg
+WARNING 2023-01-20 20:49:40,364 "GET /images/images/wordpress_or_django.jpg HTTP/1.1" 404 6280
+INFO 2023-01-20 20:49:51,133 "GET / HTTP/1.1" 302 0
+INFO 2023-01-20 20:49:52,535 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2023-01-20 20:49:54,998 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2023-01-20 20:49:55,085 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58578
+INFO 2023-01-20 20:49:55,319 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88145
+INFO 2023-01-20 20:49:55,350 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19724
+INFO 2023-01-20 20:49:55,683 "GET /static/dist/css/login-page.css HTTP/1.1" 200 8610
+INFO 2023-01-20 20:49:55,873 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13632
+INFO 2023-01-20 20:49:55,924 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80698
+INFO 2023-01-20 20:49:56,141 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686707
+INFO 2023-01-20 20:49:56,251 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5251
+INFO 2023-01-20 20:49:56,275 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42383
+INFO 2023-01-20 20:49:56,353 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 57530
+INFO 2023-01-20 20:49:56,770 "GET /static/dist/js/demo.js HTTP/1.1" 200 12616
+INFO 2023-01-20 20:49:58,301 "GET /static/dist/img/login.png HTTP/1.1" 200 144918
+INFO 2023-01-20 20:49:58,602 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2023-01-20 20:53:50,058 Watching for file changes with StatReloader
+WARNING 2023-01-20 20:54:07,689 Not Found: /admin/
+WARNING 2023-01-20 20:54:07,691 "GET /admin/ HTTP/1.1" 404 6187
+INFO 2023-01-20 20:55:17,856 C:\Users\Rachel\PycharmProjects\schoolmanagement\SchoolManagementSystem\school_app\urls.py changed, reloading.
+INFO 2023-01-20 20:55:28,782 Watching for file changes with StatReloader
+INFO 2023-01-20 20:56:11,118 C:\Users\Rachel\PycharmProjects\schoolmanagement\SchoolManagementSystem\school_app\urls.py changed, reloading.
+INFO 2023-01-20 20:56:23,276 Watching for file changes with StatReloader
+INFO 2023-01-20 20:56:59,810 C:\Users\Rachel\PycharmProjects\schoolmanagement\SchoolManagementSystem\school_app\urls.py changed, reloading.
+INFO 2023-01-20 20:57:03,539 Watching for file changes with StatReloader
+INFO 2023-01-20 20:58:55,428 Watching for file changes with StatReloader
+INFO 2023-01-20 21:00:02,893 Watching for file changes with StatReloader
+INFO 2023-01-20 21:00:08,607 "GET / HTTP/1.1" 302 0
+INFO 2023-01-20 21:00:08,904 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2023-01-20 21:00:09,963 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:09,991 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,447 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,617 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,686 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,699 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,700 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,702 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,879 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,938 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,940 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:10,940 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:11,053 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:12,480 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-01-20 21:00:24,253 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-01-20 21:00:24,941 "GET / HTTP/1.1" 200 9290
+INFO 2023-01-20 21:00:25,597 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25780
+INFO 2023-01-20 21:00:26,063 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042446
+INFO 2023-01-20 21:00:26,879 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2023-01-20 21:00:41,459 "GET /student/list HTTP/1.1" 200 9946
+INFO 2023-01-20 21:00:50,993 "GET /student/create/ HTTP/1.1" 200 13612
+INFO 2023-01-20 21:01:54,892 "GET / HTTP/1.1" 200 9290
+INFO 2023-01-20 21:02:53,123 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2023-01-20 21:02:53,214 "GET / HTTP/1.1" 302 0
+INFO 2023-01-20 21:02:53,265 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2023-01-20 21:02:53,606 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,609 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,652 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,703 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,769 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,796 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,802 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,844 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,858 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,864 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,949 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,989 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:53,989 "GET /static/dist/img/login.png HTTP/1.1" 304 0
+INFO 2023-01-20 21:02:54,198 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2023-01-20 21:04:12,832 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-01-20 21:04:13,043 "GET / HTTP/1.1" 200 9290
+INFO 2023-01-20 21:04:13,379 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:04:13,409 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:04:13,867 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2023-01-20 21:04:21,868 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2023-01-20 21:05:05,949 "GET /current-session/ HTTP/1.1" 200 10518
+INFO 2023-01-20 21:05:06,220 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,265 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,352 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,352 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,395 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,411 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,413 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,453 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,470 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,586 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:05:06,617 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+ERROR 2023-01-20 21:05:20,176 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Rachel\PycharmProjects\schoolmanagement\SchoolManagementSystem\apps\corecode\views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+INFO 2023-01-20 21:05:20,227 - Broken pipe from ('127.0.0.1', 61031)
+ERROR 2023-01-20 21:05:20,337 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\Rachel\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\Rachel\PycharmProjects\schoolmanagement\SchoolManagementSystem\apps\corecode\views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+ERROR 2023-01-20 21:05:20,342 "POST /current-session/ HTTP/1.1" 500 82739
+INFO 2023-01-20 21:06:05,734 "GET /term/create/?next=current-session/ HTTP/1.1" 200 10140
+INFO 2023-01-20 21:06:21,805 "POST /term/create/?next=current-session/ HTTP/1.1" 302 0
+INFO 2023-01-20 21:06:22,085 "GET /term/list/ HTTP/1.1" 200 12711
+INFO 2023-01-20 21:06:43,607 "POST /term/create/ HTTP/1.1" 302 0
+INFO 2023-01-20 21:06:43,865 "GET /term/list/ HTTP/1.1" 200 13046
+INFO 2023-01-20 21:06:44,014 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:06:44,258 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:06:51,300 "GET /term/1/delete/ HTTP/1.1" 200 9987
+INFO 2023-01-20 21:06:54,916 "POST /term/1/delete/ HTTP/1.1" 302 0
+INFO 2023-01-20 21:06:55,318 "GET /term/list/ HTTP/1.1" 200 12568
+INFO 2023-01-20 21:07:05,376 "GET /student/list HTTP/1.1" 200 9946
+INFO 2023-01-20 21:07:08,727 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2023-01-20 21:07:17,677 "GET /session/list/ HTTP/1.1" 200 11598
+INFO 2023-01-20 21:07:27,240 "GET /session/1/update/ HTTP/1.1" 200 10177
+INFO 2023-01-20 21:07:43,144 "POST /session/1/update/ HTTP/1.1" 302 0
+INFO 2023-01-20 21:07:43,361 "GET /session/list/ HTTP/1.1" 200 11742
+INFO 2023-01-20 21:07:43,684 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,744 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,755 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,755 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,775 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,788 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,811 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,814 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,834 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,850 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:07:43,900 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:09:26,001 "GET /site-config HTTP/1.1" 200 10862
+INFO 2023-01-20 21:09:26,163 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:09:26,309 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,013 "POST /site-config HTTP/1.1" 200 10878
+INFO 2023-01-20 21:10:41,270 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,272 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,335 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,345 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,372 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,398 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,404 "GET /static/dist/js/adminlte.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,463 "GET /static/dist/js/demo.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,474 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,592 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:41,619 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 304 0
+INFO 2023-01-20 21:10:48,047 "POST /site-config HTTP/1.1" 200 10878
+INFO 2023-01-20 21:10:52,662 "GET / HTTP/1.1" 200 9290
+INFO 2023-01-20 21:11:29,080 "GET /class/list/ HTTP/1.1" 200 11410
+INFO 2023-01-20 21:12:13,019 "GET /accounts/logout/ HTTP/1.1" 302 0
+INFO 2023-01-20 21:12:13,091 "GET / HTTP/1.1" 302 0
+INFO 2023-01-20 21:12:13,133 "GET /accounts/login/?next=/ HTTP/1.1" 200 3981
+INFO 2023-01-20 21:12:13,259 "GET /static/dist/css/login-page.css HTTP/1.1" 304 0
+INFO 2023-01-20 21:12:13,382 "GET /static/dist/img/login.png HTTP/1.1" 304 0
